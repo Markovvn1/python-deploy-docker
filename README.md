@@ -1,4 +1,4 @@
-# Python deploy docker
+# Python poetry docker
 
 Multi-arch докер образ со всем необходимым для деплоя python приложений, использующих [poetry](https://python-poetry.org/).
 
